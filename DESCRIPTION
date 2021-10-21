@@ -1,0 +1,12 @@
+Package: daodash
+Type: Package
+Title: Prototype Application Exploring the DAO Dash Data Through The Use of Rshiny
+Version: 0.1.0
+Author: Saulthorin
+Maintainer: Saulthorin <saulthorin@gmail.com>
+Description: A Rshiny Application that Analyzes Data From DAO Dash. The daodash R Package Provides a Series of Network Analysis and Text Mining Functions to Make Working with the Data Easier.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Imports: igraph, stats
